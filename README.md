@@ -1,35 +1,23 @@
 <div align="center">
-advay
+
+# advay
+
 still learning — but building every day
-<sub>game dev · ai/ml · full-stack web · android</sub>
+
+game dev · ai/ml · full-stack web · android
+
 </div>
-~ about
-Self-taught developer. I learn by breaking things and rebuilding them.
-Right now I'm building my first public projects — this profile is a work in
-progress, and it's going to fill up.
-~ currently
-•
-building my first real projects — a game, a web app, and an ML experiment
-•
-getting sharper at Python and JavaScript
-•
-learning to ship, instead of only studying
-~ stack
-area
-working with
-languages
-Python · JavaScript · C#
-web
-HTML · CSS · React · Node.js
-game dev
-Unity · C#
-ai / ml
-NumPy · pandas · scikit-learn
-android
-Kotlin · Android Studio
-tools
-Git · GitHub · VS Code
-<sub>still learning all of this — no expertise claimed.</sub>
-~ contact
+
+---
+
+### ~ about
+
+Self-taught developer, learning in public. Currently building my first projects — a game, a web app and an ML experiment.
+
+### ~ stack
+
+Python · JavaScript · C# · React · Node · Unity · NumPy · scikit-learn · Kotlin · Git
+
+### ~ contact
+
 realadvay@gmail.com
-<div align="center"><sub>updated nov 2026</sub></div>
